@@ -1,0 +1,8 @@
+file:/Users/crawl/daily_weather.csv
+file:/Users/an/Desktop/iris.csv
+knime://knime.workflow/../../TheData/Misc/WebdataOldSystem.csv
+knime://knime.workflow/../../TheData/Misc/SentimentRating.csv
+knime://knime.workflow/../../TheData/Misc/Demographics.csv
+knime://knime.workflow/data.all
+/Users/an/Desktop/iris.csv
+knime://knime.workflow/../../TheData/Basics/adult.csv
