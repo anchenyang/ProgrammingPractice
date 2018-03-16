@@ -1,7 +1,14 @@
-a = {1:2,3:4}
-print(type(a))
+import numpy as np
+import sys
+import itertools
+import collections
 
-print(4 in a)
-b = a.copy()
-del a[1]
-print(a.values())
+def k(a):
+    return True
+
+j = lambda x :True
+a = [1,3]
+b = "a"
+
+c = filter(j, a)
+print(list(c))
